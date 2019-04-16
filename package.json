@@ -454,7 +454,7 @@
         "test": "npm run compile && node ./node_modules/vscode/bin/test"
     },
     "dependencies": {
-        "@shd101wyy/mume": "^0.3.8",
+        "@shd101wyy/mume": "https://github.com/sutinghui24/mume.git",
         "@types/vfile": "^3.0.2"
     },
     "devDependencies": {
